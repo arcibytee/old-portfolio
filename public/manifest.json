@@ -1,0 +1,17 @@
+{
+  "lang": "es",
+  "short_name": "Portfolio - Jhon",
+  "name": "Jhon Arciniegas - Desarrollador de Software",
+  "description": "Portafolio personal de Jhon Arciniegas, desarrollador de software. Explora mis proyectos y experiencia.",
+  "icons": [
+    {
+      "src": "/logo.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "https://jhon-arciniegas.vercel.app",
+  "display": "standalone",
+  "theme_color": "#10131a",
+  "background_color": "#FFFEF4"
+}
